@@ -1,0 +1,24 @@
+{
+  "name": "pet",
+  "version": "1.0.0",
+  "description": "pet information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankgoyal-coder/Pet_Inforamtion.git"
+  },
+  "author": "Mayank Goyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankgoyal-coder/Pet_Inforamtion/issues"
+  },
+  "homepage": "https://github.com/mayankgoyal-coder/Pet_Inforamtion#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.6"
+  }
+}
